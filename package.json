@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-plugin-adobe-aep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdobeDocs/gatsby-plugin-adobe-aep.git"
+  },
+  "author": {
+    "name": "Tim Kim",
+    "url": "https://github.com/timkim"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AdobeDocs/gatsby-plugin-adobe-aep/issues"
+  },
+  "homepage": "https://github.com/AdobeDocs/gatsby-plugin-adobe-aep#readme"
+}
